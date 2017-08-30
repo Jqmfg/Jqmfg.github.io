@@ -8,81 +8,81 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Diablo 3: Reaper of Souls
 
 ### XBOX 360
-* Clive Barker's Jericho
-* PREY
 * Battlefiled 3
-* Singularity
-* Lost Planet: Extreme Condition
-* Stranglehold
-* Ghost Recon 2: Advanced Warfighter
-* Sneak King
-* Red Faction: Guerrilla
+* Binary Domain
+* Blood Drive
+* Chrome Hounds
+* Clive Barker's Jericho
 * Dead Island
+* Dungeon Seige 3
+* Ghost Recon 2: Advanced Warfighter
+* Jane's Advanced Strike Force
 * Kameo Elements of Power
 * Leisure Suit Larry: Box Office Bust
-* Blood Drive
-* Dungeon Seige 3
-* Omerta City of Gangsters
+* Lost Planet: Extreme Condition
 * Mindjack
-* Binary Domain
-* Jane's Advanced Strike Force
-* Chrome Hounds
+* Omerta City of Gangsters
+* PREY
+* Red Faction: Guerrilla
+* Singularity
+* Sneak King
+* Stranglehold
 * Too Human
 
 ### PS3
-* Dark Souls 2
-* Duke Nukem Forever
-* Killzone 2
-* Crysis 2
-* MLB 07 The Show
-* Infamous
-* L.A. Noire
 * Assassin's Creed: Revelations
-* Resistance 2
-* Metal Gear Solid 4: Guns Patriot
-* Resistance: Fall of Man
-* Warhawk
-* NCAA Football 10
-* Ghost Recon 2: Advanced Warfighter
-* Rock Revolution
-* Eyepet
-* Dishonored
+* Battlefield 3: Limited Edition
+* Battlefield Bad Company 2
+* Birds of Steel
+* Blacksite: Area 51
+* Brink
+* Cabela's Survival: Shadows of Katmai
 * Chaotic Shadow Warriors
 * Conan
-* Rogue Warrior
-* Kingdom Hearts 1.5 HD Remix
-* Blacksite: Area 51
-* Gran Turismo 5: Prologue
-* Uncharted 2: Among Theives
-* Haze
-* Genji: Days of the Blade
-* Cabela's Survival: Shadows of Katmai
-* Fracture
-* Grand Theft Auto: Episodes from Liberty City
-* God of War 3
-* Dark Void
-* ICO and Shadow of the Colossus Collection
-* RAGE
-* Battlefield Bad Company 2
-* Battlefield 3: Limited Edition
-* Kung Fu Rider
-* Enemy Territory: QUAKE Wars
-* Birds of Steel
-* Brink
-* Killzone 3
 * Conflict: Denied Ops
+* Crysis 2
+* Dark Souls 2
+* Dark Void
+* Dishonored
+* Duke Nukem Forever
+* Enemy Territory: QUAKE Wars
+* Eyepet
+* Fracture
+* Genji: Days of the Blade
+* Ghost Recon 2: Advanced Warfighter
+* God of War 3
+* Gran Turismo 5: Prologue
+* Grand Theft Auto: Episodes from Liberty City
+* Haze
+* ICO and Shadow of the Colossus Collection
+* Infamous
+* Killzone 2
+* Killzone 3
+* Kingdom Hearts 1.5 HD Remix
+* Kung Fu Rider
+* L.A. Noire
+* MLB 07 The Show
+* Metal Gear Solid 4: Guns Patriot
+* NCAA Football 10
+* RAGE
+* Resistance 2
+* Resistance: Fall of Man
+* Rock Revolution
+* Rogue Warrior
+* Uncharted 2: Among Theives
+* Warhawk
 
 ### Wii
-* Sea Monster's: A Prehistoric Adventrure
-* G-Force
-* Battalion Wars 2
 * Bakugan Battle Brawlers
-* Cabela's Big Game Hunter 2012
-* Thrillville: Off the Rails
-* Game party
+* Battalion Wars 2
 * Ben 10 Alien Force
-* The Naked Brother's Band The video Game
-* Link's Crossbow Training
-* Elebits
-* Generator Rex: Agent of Providence
+* Cabela's Big Game Hunter 2012
 * Code Lyoko: Quest for Infinity
+* Elebits
+* G-Force
+* Game party
+* Generator Rex: Agent of Providence
+* Link's Crossbow Training
+* Sea Monster's: A Prehistoric Adventrure
+* The Naked Brother's Band The video Game
+* Thrillville: Off the Rails
