@@ -13,18 +13,36 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Ultra Street Figher II: The Final Challengers
 
 ### PS4
+* ArcaniA: The Complete Tale
 * Batman: Arkham Knight
+* Battle Worlds Kronos
+* Deponia
 * Destiny
+* Destroy All Humans!
+* Destroy All Humans! 2
 * Diablo 3: Reaper of Souls
 * Dragon Ball Fighterz
 * Dragon Ball Xenoverse 2
 * Guilty Gear Xrd Rev 2
 * Horizon Zero Dawn
 * Injustice 2
+* Just Cause 3
 * Killzone: Shadow Fall
+* Legend of Kay Anniversary
+* MX vs. ATV Supercross Encore
 * Mortal Kombat XL
+* PaRappa the Rapper 2
+* Red Faction
+* Star Wars Battlefront
+* Star Wars Bounty Hunter
+* Star Wars: Jedi Starfighter
+* Star Wars: Racer Revenge
 * Street Fighter V
+* Super Dungeon Bros
+* Super Star Wars
 * Tekken 7
+* That's You!
+* The Book of Unwritten Tales 2
 * The Order 1886
 * Wipeout: Omega Collection
 
@@ -86,10 +104,13 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Crysis 2
 * Dark Souls 2
 * Dark Void
+* Darksiders
+* Darksiders II
 * Dishonored
 * Disney Infinity
 * Dragon Ball Z Budokai: HD Collection
 * Duke Nukem Forever
+* Dust 514
 * Enemy Territory: Quake Wars
 * EyePet
 * FIFA Soccer 11
@@ -113,12 +134,14 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Lego Harry Potter: Years 1-4
 * Lego MARVEL Super Heroes
 * Lego Star Wars III: Clone Wars
+* Lgend of Kay Anniversary
 * Little Big Planet 2
 * Little Big Planet 3
 * Little Big Planet Karting
 * Little Big Planet: Game of the Year Edition
 * MAG
 * MLB 07 The Show
+* MX vs ATV Supercross
 * Mass Effect 3
 * Medieval Moves: Deadmund's Quest
 * Metal Gear Solid 4: Guns Patriot
@@ -127,6 +150,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Motor Storm
 * NCAA Football 10
 * Need for Speed: Hot Pursuit
+* Okami HD
 * Playstation All-Stars: Battle Royale
 * Portal 2
 * RAGE: Anarchy Edition
@@ -140,10 +164,12 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Shaun White Snowboarding
 * Skate 3
 * Sly Cooper: Thieves in Time
+* Soulcalibur: Lost Swords
 * Space Marine
 * Starhawk
 * Start the Party
 * Street Figher X Tekken
+* Super Street Fighter II Turbo: HD Remix
 * Superbike World Championship
 * Syndicate
 * The Elder Scrolls 5: Skyrim
