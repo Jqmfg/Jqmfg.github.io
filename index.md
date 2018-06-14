@@ -16,6 +16,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Batman: Arkham Knight
 * Destiny
 * Diablo 3: Reaper of Souls
+* Dragon Ball Fighterz
 * Dragon Ball Xenoverse 2
 * Guilty Gear Xrd Rev 2
 * Horizon Zero Dawn
@@ -185,6 +186,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Tony Hawk Shred
 * uDraw Studio
 * Wii Fit
+* Wii Sports
 * Wii Sports Resort
 * Wipeout: The Game
 
