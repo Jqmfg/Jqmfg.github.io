@@ -13,7 +13,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Ultra Street Figher II: The Final Challengers
 
 ### PS4
-* ArcaniA: The Complete Tale
+* ArcaniA: The Complete Tale (6/10 bad intro, but the concept was there)
 * Batman: Arkham Knight
 * Battle Worlds Kronos
 * Deponia
@@ -24,6 +24,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Dragon Ball Fighterz
 * Dragon Ball Xenoverse 2
 * Guilty Gear Xrd Rev 2
+* Has Been Heroes - (7/10 Combat was good in concept, but too grindy)
 * Horizon Zero Dawn
 * Injustice 2
 * Just Cause 3
@@ -32,6 +33,8 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * MX vs. ATV Supercross Encore
 * Mortal Kombat XL
 * PaRappa the Rapper 2
+* Pharaonic - (6/10 weird hitboxes, but good polish)
+* Professional Farmer 2017 - (4/10 gameplay, 10/10 physics engine)
 * Red Faction
 * Star Wars Battlefront
 * Star Wars Bounty Hunter
@@ -69,6 +72,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Lost Planet: Extreme Condition
 * Metal Gear: Revengeance
 * Mindjack
+* Minecraft: Story Mode - (DOA)
 * Murdered Soul Suspect
 * Omerta City of Gangsters
 * PREY
@@ -81,6 +85,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Sneak King
 * Stranglehold
 * Too Human
+* Viking: Battle for Asgard - (4.5/10 sick executes, bad execution)
 * Yaiba: Ninja Gaiden Z
 
 ### PS3
@@ -112,6 +117,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Duke Nukem Forever
 * Dust 514
 * Enemy Territory: Quake Wars
+* Enslaved - (7/10 console, u mom gay; 8/10 on PC poorly optimized, framerate issues, rough camera controls)
 * EyePet
 * FIFA Soccer 11
 * Fracture
@@ -121,6 +127,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Golden Axe: Beast Rider
 * Gran Turismo 5: Prologue
 * Grand Theft Auto: Episodes from Liberty City
+* Gundam Crossfire - (1.5/10 Game Sucks)
 * HAZE
 * ICO and Shadow of the Colossus Collection
 * Infamous
@@ -160,6 +167,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Resistance: Fall of Man
 * Rock Revolution
 * Rogue Warrior
+* Shadow of the Damned - (10/10 Humor, 8/10 gameplay, best Johnson in the biz)
 * Shaun White Skateboarding
 * Shaun White Snowboarding
 * Skate 3
