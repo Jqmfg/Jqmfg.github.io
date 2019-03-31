@@ -20,6 +20,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Destiny
 * Destroy All Humans!
 * Destroy All Humans! 2
+* Devil May Cry 5
 * Diablo 3: Reaper of Souls
 * Dragon Ball Fighterz
 * Dragon Ball Xenoverse 2
@@ -54,12 +55,14 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Binary Domain
 * Blood Drive
 * Blue Dragon
+* Chaotic Shadow Warriors
 * Chrome Hounds
 * Clive Barker's Jericho
 * Dead Island
 * Devil May Cry 4
 * Duck Dynasty
 * Dungeon Seige 3
+* FUSE
 * GUN
 * Ghost Recon 2: Advanced Warfighter
 * High School Musical 3
@@ -70,6 +73,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Leisure Suit Larry: Box Office Bust
 * Lost Odyssey
 * Lost Planet: Extreme Condition
+* Lost Planet 2
 * Metal Gear: Revengeance
 * Mindjack
 * Minecraft: Story Mode - (DOA)
@@ -113,6 +117,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Darksiders II
 * Dishonored
 * Disney Infinity
+* Disney Infinity 2.0
 * Dragon Ball Z Budokai: HD Collection
 * Duke Nukem Forever
 * Dust 514
@@ -190,6 +195,8 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Yoostar 2: In the Movies
 
 ### Wii
+* All Star Cheer Squad
+* Arctic Tale
 * Bakugan: Battle Brawlders
 * Battalion Wars 2
 * Ben 10: Alien Force
@@ -202,9 +209,11 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Generator Rex: Agent of Providence
 * Ghost Squad
 * Guinness World Records: The Videogame
+* Haunted House
 * Hell's Kitchen: The Game
 * Just Dance 2014
 * Just Dance 3
+* Line Rider Unbound 2
 * Link's Crossbow Training
 * Mario Kart Wii
 * Mario Party 8
@@ -219,10 +228,12 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Thrillville: Off the Rails
 * Tony Hawk Shred
 * uDraw Studio
+* Ultimate Duck Hunting
 * Wii Fit
 * Wii Sports
 * Wii Sports Resort
 * Wipeout: The Game
+* Wipeout 3
 
 ### PS2
 * Barbie Horse Adventures: Wild Horse Rescue
