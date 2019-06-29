@@ -53,11 +53,13 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 ### XBOX 360
 * Battlefiled 3
 * Binary Domain
+* Bladestorm Hundred Years War
 * Blood Drive
 * Blue Dragon
 * Chaotic Shadow Warriors
 * Chrome Hounds
 * Clive Barker's Jericho
+* Darkness 2
 * Dead Island
 * Devil May Cry 4
 * Duck Dynasty
@@ -67,6 +69,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Ghost Recon 2: Advanced Warfighter
 * High School Musical 3
 * Homefront
+* Import Tuner Challenge
 * Jane's Advanced Strike Force
 * Kameo Elements of Power
 * Kingdoms of Amalur: Reckoning
@@ -134,6 +137,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Grand Theft Auto: Episodes from Liberty City
 * Gundam Crossfire - (1.5/10 Game Sucks)
 * HAZE
+* Heavy Rain
 * ICO and Shadow of the Colossus Collection
 * Infamous
 * Injustice: Gods Among Us
@@ -158,6 +162,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Medieval Moves: Deadmund's Quest
 * Metal Gear Solid 4: Guns Patriot
 * Mi Coach by Adidas
+* Minecraft Story Mode
 * Mortal Combat vs DC Universe
 * Motor Storm
 * NCAA Football 10
