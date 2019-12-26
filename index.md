@@ -6,9 +6,25 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 
 ### Switch
 * Arms
+* Fire Emblem: Three Houses
+* Hollow Knight
+* Hyrule Warriors
+* Kirby Star Allies
+* Luigi's Mansion 3
 * Mario Kart 8 Deluxe
+* Mario Tennis Aces
+* Marvel Ultimate Alliance 3: The Black Order
+* Monster Boy and the Cursed Kingdom
+* Octopath Traveler
+* Ok K.O.! Let's Play Heroes
+* River City Girls
+* Shovel Knight: Treasure Trove
 * Splatoon 2
+* Steven Universe: Save the Light
+* Super Mario Maker 2
 * Super Mario Odyssey
+* Super Smash Bros Ultimate
+* Sushi Striker: The Way of Sushido
 * The Legend of Zelda: Breath of the Wild
 * Ultra Street Figher II: The Final Challengers
 
@@ -24,29 +40,38 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Diablo 3: Reaper of Souls
 * Dragon Ball Fighterz
 * Dragon Ball Xenoverse 2
+* Evolve
 * Guilty Gear Xrd Rev 2
-* Has Been Heroes - (7/10 Combat was good in concept, but too grindy)
+* Has-Been Heroes - (7/10 Combat was good in concept, but too grindy)
 * Horizon Zero Dawn
 * Injustice 2
+* Jedi: Fallen Order
+* Jojo's Bizarre Adventure: Eyes of Heaven
 * Just Cause 3
 * Killzone: Shadow Fall
 * Legend of Kay Anniversary
 * MX vs. ATV Supercross Encore
+* Mortal Kombat 11
 * Mortal Kombat XL
+* Override: Mech City Brawl
 * PaRappa the Rapper 2
 * Pharaonic - (6/10 weird hitboxes, but good polish)
 * Professional Farmer 2017 - (4/10 gameplay, 10/10 physics engine)
+* Red Dead Redemption 2
 * Red Faction
+* Spider-man
 * Star Wars Battlefront
 * Star Wars Bounty Hunter
 * Star Wars: Jedi Starfighter
 * Star Wars: Racer Revenge
+* Stick It to the Man
 * Street Fighter V
 * Super Dungeon Bros
 * Super Star Wars
 * Tekken 7
 * That's You!
 * The Book of Unwritten Tales 2
+* The Last of Us
 * The Order 1886
 * Wipeout: Omega Collection
 
@@ -59,13 +84,16 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Chaotic Shadow Warriors
 * Chrome Hounds
 * Clive Barker's Jericho
+* Dark
 * Darkness 2
 * Dead Island
 * Devil May Cry 4
 * Duck Dynasty
 * Dungeon Seige 3
 * FUSE
+* Fable 3
 * GUN
+* Gears of War (BC)
 * Ghost Recon 2: Advanced Warfighter
 * High School Musical 3
 * Homefront
@@ -75,8 +103,8 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Kingdoms of Amalur: Reckoning
 * Leisure Suit Larry: Box Office Bust
 * Lost Odyssey
-* Lost Planet: Extreme Condition
 * Lost Planet 2
+* Lost Planet: Extreme Condition
 * Metal Gear: Revengeance
 * Mindjack
 * Minecraft: Story Mode - (DOA)
@@ -86,17 +114,29 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Pirates of the Carribean: At Worlds End
 * Port Royale 3: Pirates & Merchants
 * Red Faction: Guerrilla
+* Section 8
 * Singularity
 * Skylanders Trap Team
 * Sleeping Dogs
 * Sneak King
 * Stranglehold
+* Tales from the Borderlands
 * Too Human
+* Two Worlds
 * Viking: Battle for Asgard - (4.5/10 sick executes, bad execution)
 * Yaiba: Ninja Gaiden Z
-
+* Zone of the Enders
 ### PS3
+* Beyond Two Souls
+* Knowledge is Power PlayLink
+* TV Superstars
+* F1 Race Stars
+* The Shoot
+* Resident Evil: Operation Raccoon City
 * Assassin's Creed: Revelations
+* Ar Nosurge: Ode to an Unborn Star
+* Warriors Legends of Troy
+* Megamind: Ultimate Showdown
 * Batman: Arkham City
 * Battlefield 3: Limited Edition
 * Battlefield Bad Company 2
@@ -202,13 +242,17 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 ### Wii
 * All Star Cheer Squad
 * Arctic Tale
-* Bakugan: Battle Brawlders
+* Bakugan: Battle Brawlers
 * Battalion Wars 2
 * Ben 10: Alien Force
 * Cabela's Big Game Hunter 2012
 * Chicken Blaster
+* Club Penguin: Game Day!
 * Code Lyoko: Quest for Infinity
 * Elebits
+* Epic Mickey
+* Excite Truck
+* Fantastic Four: Rise of the Silver Surfer
 * G-Force
 * Game Party
 * Generator Rex: Agent of Providence
@@ -226,19 +270,21 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * My Sims: Agents
 * Obscure: The Aftermath
 * Puss In Boots
+* Racquet Sports
 * Sea Monsters: A Perhistoric Adventure
 * Shaun White Snowboarding: Road Trip
+* Shrek Forever After
 * Super Smash Bros Brawl
-* The Naked Borthers Band: The Video Game
+* The Naked Brothers Band: The Video Game
 * Thrillville: Off the Rails
 * Tony Hawk Shred
-* uDraw Studio
 * Ultimate Duck Hunting
 * Wii Fit
 * Wii Sports
 * Wii Sports Resort
-* Wipeout: The Game
 * Wipeout 3
+* Wipeout: The Game
+* uDraw Studio
 
 ### PS2
 * Barbie Horse Adventures: Wild Horse Rescue
