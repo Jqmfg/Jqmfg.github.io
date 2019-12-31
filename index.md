@@ -84,6 +84,8 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Chaotic Shadow Warriors
 * Chrome Hounds
 * Clive Barker's Jericho
+* Condemned 2: Bloodshot
+* Dante's Inferno
 * Dark
 * Darkness 2
 * Dead Island
@@ -111,6 +113,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Murdered Soul Suspect
 * Omerta City of Gangsters
 * PREY
+* Pimp My Ride
 * Pirates of the Carribean: At Worlds End
 * Port Royale 3: Pirates & Merchants
 * Red Faction: Guerrilla
@@ -126,20 +129,15 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Viking: Battle for Asgard - (4.5/10 sick executes, bad execution)
 * Yaiba: Ninja Gaiden Z
 * Zone of the Enders
+
 ### PS3
-* Beyond Two Souls
-* Knowledge is Power PlayLink
-* TV Superstars
-* F1 Race Stars
-* The Shoot
-* Resident Evil: Operation Raccoon City
-* Assassin's Creed: Revelations
+* Afro Samurai
 * Ar Nosurge: Ode to an Unborn Star
-* Warriors Legends of Troy
-* Megamind: Ultimate Showdown
+* Assassin's Creed: Revelations
 * Batman: Arkham City
 * Battlefield 3: Limited Edition
 * Battlefield Bad Company 2
+* Beyond Two Souls
 * Birds of Steel
 * Blacksite: Area 51
 * Book of Spells
@@ -164,9 +162,11 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Dragon Ball Z Budokai: HD Collection
 * Duke Nukem Forever
 * Dust 514
+* EA Sports Active 2
 * Enemy Territory: Quake Wars
 * Enslaved - (7/10 console, u mom gay; 8/10 on PC poorly optimized, framerate issues, rough camera controls)
 * EyePet
+* F1 Race Stars
 * FIFA Soccer 11
 * Fracture
 * Genji: Days of the Blade
@@ -184,6 +184,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Killzone 2
 * Killzone 3
 * Kingdom Hearts 1.5 HD Remix
+* Knowledge is Power PlayLink
 * Kung Fu Rider
 * L.A. Noire
 * Legend of the Guardians of the Owls of Ga'Hoole
@@ -200,6 +201,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * MX vs ATV Supercross
 * Mass Effect 3
 * Medieval Moves: Deadmund's Quest
+* Megamind: Ultimate Showdown
 * Metal Gear Solid 4: Guns Patriot
 * Mi Coach by Adidas
 * Minecraft Story Mode
@@ -207,12 +209,15 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Motor Storm
 * NCAA Football 10
 * Need for Speed: Hot Pursuit
+* Ninja Gaiden Sigma+
 * Okami HD
 * Playstation All-Stars: Battle Royale
 * Portal 2
+* Puppeteer
 * RAGE: Anarchy Edition
 * Ratchet and Clank: A Crack in Time
 * Ratchet and Clank: All 4 One
+* Resident Evil: Operation Raccoon City
 * Resistance 2
 * Resistance: Fall of Man
 * Rock Revolution
@@ -221,6 +226,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Shaun White Skateboarding
 * Shaun White Snowboarding
 * Skate 3
+* Sly Cooper Collection
 * Sly Cooper: Thieves in Time
 * Soulcalibur: Lost Swords
 * Space Marine
@@ -230,13 +236,17 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Super Street Fighter II Turbo: HD Remix
 * Superbike World Championship
 * Syndicate
+* TV Superstars
 * The Elder Scrolls 5: Skyrim
 * The Eye of Judgement
 * The ICO and Shadow of the Colossus Collection
+* The Shoot
 * Tony Hawk Shred
 * Uncharted 2: Among Thieves
 * WWE 2k14
 * Warhawk
+* Warriors Legends of Troy
+* XCOM Enemy Unknown
 * Yoostar 2: In the Movies
 
 ### Wii
@@ -249,7 +259,12 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Chicken Blaster
 * Club Penguin: Game Day!
 * Code Lyoko: Quest for Infinity
+* Cooking Mama Cook Off
+* Dead Rising Chop till you Drop
+* Deadliest Catch: Sea of Chaos
+* Drawn to Life: The Next Chapter
 * Elebits
+* Emergency Heroes
 * Epic Mickey
 * Excite Truck
 * Fantastic Four: Rise of the Silver Surfer
@@ -260,8 +275,10 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Guinness World Records: The Videogame
 * Haunted House
 * Hell's Kitchen: The Game
+* Imagine Party Babies
 * Just Dance 2014
 * Just Dance 3
+* Kidz Sports Ice Hockey
 * Line Rider Unbound 2
 * Link's Crossbow Training
 * Mario Kart Wii
@@ -269,6 +286,7 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * Monopoly: Streets
 * My Sims: Agents
 * Obscure: The Aftermath
+* Power Rangers Samurai
 * Puss In Boots
 * Racquet Sports
 * Sea Monsters: A Perhistoric Adventure
@@ -278,13 +296,13 @@ Welcome to Real Game Journalism. The website about real games and journalism.
 * The Naked Brothers Band: The Video Game
 * Thrillville: Off the Rails
 * Tony Hawk Shred
+* UDraw Studio
 * Ultimate Duck Hunting
 * Wii Fit
 * Wii Sports
 * Wii Sports Resort
 * Wipeout 3
 * Wipeout: The Game
-* uDraw Studio
 
 ### PS2
 * Barbie Horse Adventures: Wild Horse Rescue
